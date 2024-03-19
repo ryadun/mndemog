@@ -1,0 +1,9 @@
+Variable,Description
+County.Within,County that the city or township exists within
+City.or.Township,City or township name
+Year,Year of the estimate
+Total.Population,Total population estimate
+Households,Number of households
+Persons.Per.Household,Persons per household
+Home.County,County of the city or town (in common format)
+City.Town,City or town (in common format)
